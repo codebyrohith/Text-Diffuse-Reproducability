@@ -20,8 +20,6 @@ We reproduced a **key visual result** from the Text-DiFuse paper using the offic
 | ----------------------------------- | ------------------------------------ | ---------------------------------- |
 | ![Visible Image](images/input1.png) | ![Infrared Image](images/input2.png) | ![Fused Output](images/result.png) |
 
-> _Note: Replace the `images/*.png` paths with your actual image files._
-
 ---
 
 ## 🧪 Reproduction Steps
